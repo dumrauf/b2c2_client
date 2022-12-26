@@ -10,5 +10,5 @@ requests==2.18.4
 setuptools==36.4.0
 six==1.10.0
 urllib3==1.22
-wheel==0.29.0
+wheel==0.38.1
 wsgiref==0.1.2
